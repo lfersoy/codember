@@ -1,2 +1,2 @@
 # codember
-Solutions fo challenges proposed in https://codember.dev/
+Solutions fo challenges proposed on https://codember.dev/
