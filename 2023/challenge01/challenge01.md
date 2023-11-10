@@ -22,7 +22,7 @@ cup te a cup -> cup2te1a1
 houses house housess -> houses1house1housess1
 ```
 
-## Solución
+## Solution
 
 ```php
 function countWords($message) {
